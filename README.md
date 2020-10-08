@@ -27,7 +27,7 @@ The model was trained in jupyter notebook in google colab environment and is sav
 * Download the <strong>Fer2013_cnn.h5</strong> file which contains the trained model along with its weight . 
 * Run the <strong>main.py</strong> file to see the program working for real time predictions
 
-<bold>Some of the sample imafes are present in the folder fer_images</bold>
+Some of the real time predicted face emotion images are present in the folder fer_images.
 
 #### Dataset
 
