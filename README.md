@@ -27,6 +27,8 @@ The model was trained in jupyter notebook in google colab environment and is sav
 * Download the <strong>Fer2013_cnn.h5</strong> file which contains the trained model along with its weight . 
 * Run the <strong>main.py</strong> file to see the program working for real time predictions
 
+<bold>Some of the sample imafes are present in the folder fer_images</bold>
+
 #### Dataset
 
 * Used the kaggle dataset from [Facial Expression Recognition Challenge](https://www.kaggle.com/deadskull7/fer2013)
@@ -34,12 +36,10 @@ The model was trained in jupyter notebook in google colab environment and is sav
 * The data consists of 48x48 pixel grayscale images of faces but flattened.The training set consists of 28,709 examples. The public test set consists of 3,589 examples. The final test set, consists of another 3,589 examples. 
 
 ---
-## Sample images
----
 
 ## Author 
 
-<strong>Dhruv Tongia</strong> 
+*<strong>Dhruv Tongia</strong> 
 
 
 
