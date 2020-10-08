@@ -34,7 +34,8 @@ The model was trained in jupyter notebook in google colab environment and is sav
 * The data consists of 48x48 pixel grayscale images of faces but flattened.The training set consists of 28,709 examples. The public test set consists of 3,589 examples. The final test set, consists of another 3,589 examples. 
 
 ---
-
+## Sample images
+---
 
 ## Author 
 
