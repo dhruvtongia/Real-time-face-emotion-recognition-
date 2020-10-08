@@ -18,6 +18,8 @@ This model can be used for prediction of expressions of both still images and re
 
 The model was trained in jupyter notebook in google colab environment and is saved in the file  Fer2013_cnn.h5 .
 
+![](model.png)
+
 
 ---
 ## How To Use
