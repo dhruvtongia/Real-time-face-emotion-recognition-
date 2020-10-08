@@ -39,7 +39,7 @@ Some of the real time predicted face emotion images are present in the folder fe
 
 ## Author 
 
-*<strong>Dhruv Tongia</strong> 
+* <strong>Dhruv Tongia</strong> 
 
 
 
